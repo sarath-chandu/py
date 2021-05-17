@@ -1,0 +1,11 @@
+
+
+install microsoft visual C++ 9.0
+
+
+change the path for the python
+
+pip install paramiko
+pip install pycrypto
+
+pip netmiko
